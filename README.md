@@ -1,1 +1,3 @@
 # ukrainian-cities
+
+This is a repository to demonstrate my ability to do data analysis and make plots in Python (pandas, matplotlib). I initially started this small project out of curiosity. I was reading about Ukrainian cities and noticed that Lvivska region (Львівська область) has abnormally many cities, compared to the median number of cities per Ukrainian region. So I wanted to research this phenomenon and wrote some code you can find in this repository. This project stops abruptly because then I read the explanation for Lvivska region urbanization on Wikipedia: it's simply historically more industrialized than the regions around it. So I lost the interest in researching this further. :D But I still think I should post this code to show I can write in Python.
